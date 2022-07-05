@@ -8,6 +8,9 @@ Code for parameter and input estimation according to the article with the same n
 # Code
 Basic examples demonstrating the estimation algorithms.
 
+## startup.m
+Setup paths
+
 ## b1b2EstimationDemo.m
 Estimation of parameters b1 and b2 from synthetic data using least squares approach and MCMC. Corresponds to the experiment in Section 3.1 in the article.
 
